@@ -1,0 +1,82 @@
+html {font-size: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    background: rgb(37, 37, 37);
+}
+
+.classe-imagem{
+    height: 275px;
+    width: 210px;
+    margin-top: 10px;
+    margin-left: 30px;
+    float: right;
+    margin-right: 10px;
+
+}
+.caixa{
+    margin-left: 460px;
+    width: 1000px;
+    height: 820px;
+    background-color: rgb(117, 117, 117);
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    border-top: 20px solid yellow;
+}
+
+.caixa2{
+    width: 1000px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 710px;
+    background-color: rgb(117, 117, 117);
+    padding: 20px 20px 20px 20px; 
+    border-radius: 5px;
+}
+.caixa3{
+    margin: 0 auto;
+    margin-bottom: 50px;
+    height: 300px;
+    width: 1300px;
+    background-color: rgb(117, 117, 117);
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    border-top: 20px solid orange;
+}
+h1{
+    margin-bottom: 50px;
+    font-size: 32px;
+    line-height: 4px;
+    letter-spacing: 2px;
+}
+p {
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    margin-bottom: 40px;
+}
+
+.p2{
+    display: table-cell;
+    font-size: 24px;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+}
+a{
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+}
+img{
+    height: 282px;
+    width: 200px;
+    margin-top: 35px;
+    margin-left: 10px;
+    float: left;
+    margin-right: 30px;
+}
+body{
+    height: 5000px;
+    width: 1500px;
+    margin-left: 200px;
+    margin-top: 50px;
+    background: rgb(37, 37, 37);
+}
